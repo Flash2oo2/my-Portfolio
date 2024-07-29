@@ -1,0 +1,18 @@
+[
+  {
+    "key": 1,
+    "title": "React E-Commerce",
+    "imageSrc": "https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/ecommerce.png",
+    "description": "E commerce app built using React Js.",
+    "demo": "https://amazon-clone-by2oo2.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 2,
+    "title": "Social Media Website",
+    "imageSrc": "https://www.forbes.com/advisor/wp-content/uploads/2023/05/Social_Media_Statistics_-_article_image.jpg",
+    "description": "Social media website built using MERN stack.",
+    "demo": "https://sociohub2oo2.netlify.app/",
+    "source": "https://www.github.com"
+  }
+]
